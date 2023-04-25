@@ -1,18 +1,18 @@
-## Getting Started
+<h1 align="center">Desafio POO Java - DIO</h1>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Abstraindo um Bootcamp Usando Orientação a Objetos em Java
+---
 
-## Folder Structure
+**Descrição**: 
+Desmistifique a Programação Orientada a Objetos (POO) com Java e pratique esse conceito fundamental nesse desafio. Para isso, os pilares da OO são devidamente formalizados: Abstração, Encapsulamento, Herança e Polimorfismo.<br/><br/> 
+Neste desafio você deverá abstrair um Bootcamp e modelar seus pincipais atributos e métodos, bem como as classes Curso, Conteúdo, Mentoria e Dev, fazendo os devidos relacionamentos. E, por fim, validar o seu funcionamento criando objetos a partir das classes modeladas e _printando_ no terminal.<br/><br/>
+Você poderá desenvolver sua capacidade de abstração com um problema real e implementar as evoluções que achar interessantes.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Passo-a-passo
+---
+1. ABSTRAIR o DOMÍNIO `Bootcamp` e MODELAR seus ATRIBUTOS E MÉTODOS
+2. Criaremos as CLASSES: `Bootcamp`, `Curso`, `Mentoria` e `Dev` e vamos relaciona-las
+3. As CLASSES Curso, Mentoria e Dev também serão MODELADOS, ou seja, criaremos seus ATRIBUTOS E MÉTODOS
+4. Para que o código fique mais legível e de fácil manutenção, utilize de algumas das ferramentas que o PARADIGMA DE ORIENTAÇÃO A OBJETOS (POO) nos oferece: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO
+5. E para representar CLASSES que foram criadas e relacionadas,transforma-as em OBJETOS
+6. Mostre os resultados no terminal.
