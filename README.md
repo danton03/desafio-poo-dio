@@ -1,7 +1,7 @@
 <h1 align="center">Desafio POO Java - DIO</h1>
 
 ## Abstraindo um Bootcamp Usando Orientação a Objetos em Java
----
+
 
 **Descrição**: 
 Desmistifique a Programação Orientada a Objetos (POO) com Java e pratique esse conceito fundamental nesse desafio. Para isso, os pilares da OO são devidamente formalizados: Abstração, Encapsulamento, Herança e Polimorfismo.<br/><br/> 
@@ -9,7 +9,7 @@ Neste desafio você deverá abstrair um Bootcamp e modelar seus pincipais atribu
 Você poderá desenvolver sua capacidade de abstração com um problema real e implementar as evoluções que achar interessantes.
 
 ## Passo-a-passo
----
+
 1. ABSTRAIR o DOMÍNIO `Bootcamp` e MODELAR seus ATRIBUTOS E MÉTODOS
 2. Criaremos as CLASSES: `Bootcamp`, `Curso`, `Mentoria` e `Dev` e vamos relaciona-las
 3. As CLASSES Curso, Mentoria e Dev também serão MODELADOS, ou seja, criaremos seus ATRIBUTOS E MÉTODOS
