@@ -68,4 +68,11 @@ public class Bootcamp {
     public int hashCode() {
         return Objects.hash(nome, descricao, dataInicial, dataFinal, devsInscritos, conteudos);
     }
+
+    @Override
+    public String toString() {
+        return "nome=" + nome + "\ndescricao=" + descricao + "\ndataInicial=" + dataInicial + "\ndataFinal="
+                + dataFinal + "\ndevsInscritos=" + devsInscritos.size() + "\nconteudos=" + conteudos.size();
+    }
+    
 }
